@@ -63,12 +63,13 @@ Broadcast Address: The last address in a subnet, used to send a message to all d
 
 # Part 2 - Q2
 
-IP Address  Class  Public/Private
-10.0.0.1      A      Private
-172.16.5.10   B      Private
-192.168.1.1   C      Private
-8.8.8.8       A      Public
-224.0.0.1     D      Public
+| IP Address  | Class | Public/Private |
+|-------------|-------|----------------|
+| 10.0.0.1    | A     | Private        |
+| 172.16.5.10 | B     | Private        |
+| 192.168.1.1 | C     | Private        |
+| 8.8.8.8     | A     | Public         |
+| 224.0.0.1   | D     | Public         |
 
 # Part 2 - Q3
 
